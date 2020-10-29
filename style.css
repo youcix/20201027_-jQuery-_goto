@@ -15,6 +15,7 @@ nav {
   width: 100%;
   text-align: center;
   background: #fff;
+  opacity: 0.9;
 }
 
 nav span {
@@ -28,6 +29,7 @@ section {
   background: #F2E6E6;
   font-size: 50px;
   text-align: center;
+  padding-top: 200px;
 }
 
 section:nth-last-of-type(2) {

@@ -12,6 +12,7 @@ nav{
     width: 100%;
     text-align: center;
     background: #fff;
+    opacity:0.9;
     
     span{
         display:inline-block;
@@ -25,6 +26,7 @@ section {
     background: 	#F2E6E6;
     font-size: 50px;
     text-align: center;
+    padding-top: 200px;
 
     &:nth-last-of-type(2){
         background: #ECF5FF;
